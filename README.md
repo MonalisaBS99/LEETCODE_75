@@ -46,7 +46,7 @@ Each solution focuses on understanding the approach and writing clean, readable 
 - [ 1] Understand each solution
 - [ 1] Analyze time and space complexity
 
-**Progress:** 0/75 problems completed
+**Progress:** 1/75 problems completed
 
 *I'll update my progress as I solve more problems.*
 
