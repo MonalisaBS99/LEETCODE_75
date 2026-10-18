@@ -4,3 +4,6 @@ SC:O(N) (STORE ANSWER)
 problem 2:1768. Merge Strings Alternately
 TC:O(n1+n2) [where n1 and n2 are the length of string]
 SC:O(n)[To store answers]
+problem 3:345. Reverse Vowels of a String
+TC:O(N)//two pointers
+SC:O(1)//constant and changing in the same string
