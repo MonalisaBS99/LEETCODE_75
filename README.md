@@ -42,11 +42,11 @@ Each solution focuses on understanding the approach and writing clean, readable 
 
 ## 📈 Progress Tracker
 
-- [3 ] Complete all 75 problems
-- [3] Understand each solution
-- [3] Analyze time and space complexity
+- [4] Complete all 75 problems
+- [4] Understand each solution
+- [4] Analyze time and space complexity
 
-**Progress:** 3/75 problems completed
+**Progress:** 4/75 problems completed
 
 *I'll update my progress as I solve more problems.*
 
