@@ -7,3 +7,6 @@ SC:O(n)[To store answers]
 problem 3:345. Reverse Vowels of a String
 TC:O(N)//two pointers
 SC:O(1)//constant and changing in the same string
+problem 4:238. Product of Array Except Self
+TC:O(n)+O(n)+O(n)~almost O(n)
+SC:O(2n)//to store prefix and suffix products
