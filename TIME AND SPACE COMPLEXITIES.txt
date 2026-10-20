@@ -1,12 +1,17 @@
+--------------------------------------------------------------------------------------------------------------------------
 problem 1:1431. Kids With the Greatest Number of Candies
 TC:O(N)
 SC:O(N) (STORE ANSWER)
+----------------------------------------------------------------------------------------------------------------------------
 problem 2:1768. Merge Strings Alternately
 TC:O(n1+n2) [where n1 and n2 are the length of string]
 SC:O(n)[To store answers]
+--------------------------------------------------------------------------------------------------------------------------------
 problem 3:345. Reverse Vowels of a String
 TC:O(N)//two pointers
 SC:O(1)//constant and changing in the same string
+-----------------------------------------------------------------------------------------------------------------------------
 problem 4:238. Product of Array Except Self
-TC:O(n)+O(n)+O(n)~almost O(n)
+TC:O(n)+O(n)+O(n)~almost O(n) or O(2n)
 SC:O(2n)//to store prefix and suffix products
+------------------------------------------------------------------------------------------------------------------------------
